@@ -30,13 +30,8 @@ I've put up a couple of videos to demonstrate how it works.
 
 It supports two scenarios for getting the files off the device:
 
-1. Upload encrypted ZIP bundles to a file sharing service.
-
-  [https://www.youtube.com/watch?v=878IzMO6CiQ](https://www.youtube.com/watch?v=878IzMO6CiQ)
-
-2. Download ZIP bundles over a direct Wi-Fi connection between two devices.
-
-  [https://www.youtube.com/watch?v=4zX-aR7sUuw](https://www.youtube.com/watch?v=4zX-aR7sUuw)
+1. Upload encrypted ZIP bundles to a file sharing service: [https://www.youtube.com/watch?v=878IzMO6CiQ](https://www.youtube.com/watch?v=878IzMO6CiQ)
+2. Download ZIP bundles over a direct Wi-Fi connection between two devices: [https://www.youtube.com/watch?v=4zX-aR7sUuw](https://www.youtube.com/watch?v=4zX-aR7sUuw)
 
 The latter is a lot faster, but requires a bit more technical experience (like setting up a Wi-Fi hotspot on your phone and connecting the vehicle to it).
 
