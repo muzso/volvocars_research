@@ -2,7 +2,7 @@
 
 I am looking for owners of recent Volvo and Polestar models, seeking your help to better characterize a security vulnerability that I found while digging into the software stack of my own vehicle, a Volvo EX30. Before I make the responsible disclosure to Volvo Cars, I'd like to confirm whether it affects other models as well.
 
-This is where I need some help: I need access to the software running on the AAOS (Android Automotive OS) infotainment systems of potentially affected models. Of course only the system part of the head unit, nothing that is individual to a vehicle (device/vehicle ID, etc.) or user generated data.
+This is where I need some help: I need access to the software running on the AAOS (Android Automotive OS) infotainment systems of potentially affected models. Of course only the system part of the head unit, nothing that is individual to a vehicle (device/vehicle ID, user generated data, etc.).
 
 The particular brands/models I'm interested in:
 
