@@ -45,7 +45,7 @@ You can reach me using any one of the following methods:
 
 - on Signal via the "muzso.01" username (for the privacy conscious)
 - email: zsmuller at proton dot me
-- or as a last resort: here via DM
+- or as a last resort: here via a GH issue
 
 If I don't get any help with this during the next month or so, I'll just report to Volvo Cars what I've found regarding the EX30. Later on other like-minded Volvo owners will either confirm or deny whether other models are affected or not.
 
