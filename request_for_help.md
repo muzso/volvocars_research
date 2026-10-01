@@ -20,7 +20,9 @@ Here's what I need:
 
 If you already have a full or partial dump of an AAOS file system (from a Volvo/Polestar) and you'd be willing to share it with me, please do so.
 
-If you don't, but you do have a Volvo car with AAOS onboard and are willing to help (or you're just interested in similar things yourself), I wrote an app that can extract as much data from a head unit (aka. infotainment) as any app available through the Play Store could. It doesn't request (or use) any storage-related Android permissions, so it can read only files that the OS (Android) and/or the vendor didn't consider sensitive enough to protect from third-party apps. This means that the app should not be able to access user data by design, and even if it could, the app uses a path exclusion list to avoid looking for user data in the first place.
+If you don't, but you do have a Volvo car with AAOS onboard and are willing to help (or you're just interested in similar things yourself), I wrote an app that can extract as much data from a head unit (aka. infotainment) as any app available through the Play Store could. It doesn't request (or use) any storage-related Android permissions, so it can read only files that the OS (Android) and/or the vendor didn't consider sensitive enough to protect from third-party (user) apps. This means that the app should not be able to access user data by design, and even if it could, the app uses a path exclusion list to avoid looking for user data in the first place.
+
+No hacking/rooting/etc. is involved and you don't have to dig out the head unit to connect anything to ports on the back panel. What this app can access/read, any app in the Play Store can access at any moment, so Volvo has no valid reason to void the vehicle's warranty.
 
 I've shared the source code of the app here: [https://github.com/muzso/android_system_dumper](https://github.com/muzso/android_system_dumper)
 
